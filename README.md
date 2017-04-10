@@ -1,5 +1,7 @@
 <section class="dex_guide"><h1 class="dex_title">Wangle</h1><section class="dex_document"><h1></h1><p class="dex_introduction">C++ networking library</p><p>Wangle is a library that makes it easy to build protocols, application clients, and application servers.</p>
 
+This is a copy of the official library (https://github.com/facebook/wangle v2017.03.06.00), the purpose is to package for conan mirror.
+
 <p>It&#039;s like Netty + Finagle smooshed together, but in C++</p>
 
 ## Building and Installing
